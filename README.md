@@ -18,5 +18,5 @@ Help with CLTK and using CLTK:
 
 Content Sources:
 - https://github.com/cltk/grc_text_perseus/tree/master/cltk_json --edited some files that were missing lines
-- https://www.dsgep.ugent.be/iliad/  used for speech indices
+- https://www.dsgep.ugent.be/iliad/  used for speech indices. Files "speech indices" came directly from this website
 
