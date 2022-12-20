@@ -1,7 +1,10 @@
 # CS505_Homer_CLTK
 
 Results:
+
+
 Graph 1: Speakers and Graph 2: Without Outliers
+
 The embeddings seem to just show the speakers who have the most frequent speeches that they are outliers and then each layer or section of outliers towards the main left cluster, the number of speeches per speaker decreases. This seems to lead to the conclusion that the word embeddings are only predicting similarity based on the number of speeches made. Maybe this is because there is not enough data to differentiate between speakers when several speakers only make one speech, whereas speakers who have multiple speeches the word embedding is more effective in predicting the similarity between speakers. 
 
 The purpose of graph 2 without the outliers, is to better see the cluster of speakers on the left. 
