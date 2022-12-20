@@ -1,5 +1,8 @@
 # CS505_Homer_CLTK
 
+Results:
+
+
 Resources:
 - Talks about characterization in Homer: https://chs.harvard.edu/chapter/2-characterization-in-homer-and-agamemnons-appeal-in-iliad-4/
 - Very helpful for reading Greek: https://geoffreysteadman.com/
@@ -17,6 +20,7 @@ Help with coding:
 Help with CLTK and using CLTK:
 - https://github.com/cltk/enm_models_cltk
 - https://github.com/cltk/cltk
+- https://github.com/cltk/cltk/issues/1193#issue-1492399885
 
 
 Content Sources:
