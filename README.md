@@ -1,8 +1,11 @@
 # CS505_Homer_CLTK
 
 Resources:
-- https://chs.harvard.edu/chapter/2-characterization-in-homer-and-agamemnons-appeal-in-iliad-4/
-- https://geoffreysteadman.com/ -- very helpful for reading Greek
+- Talks about characterization in Homer: https://chs.harvard.edu/chapter/2-characterization-in-homer-and-agamemnons-appeal-in-iliad-4/
+- Very helpful for reading Greek: https://geoffreysteadman.com/
+- Character level BERThttps://github.com/brennannicholson/ancient-greek-char-bert
+- Paper on extending character BERT to a more functional BERT: https://aclanthology.org/2021.latechclfl-1.15.pdf
+- Export whole passages without lines as txt: https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1/
 
 
 Coding Sources:
