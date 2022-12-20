@@ -1,7 +1,35 @@
 # CS505_Homer_CLTK
 
 Results:
+Graph 1: Speakers and Graph 2: Without Outliers
+The embeddings seem to just show the speakers who have the most frequent speeches that they are outliers and then each layer or section of outliers towards the main left cluster, the number of speeches per speaker decreases. This seems to lead to the conclusion that the word embeddings are only predicting similarity based on the number of speeches made. Maybe this is because there is not enough data to differentiate between speakers when several speakers only make one speech, whereas speakers who have multiple speeches the word embedding is more effective in predicting the similarity between speakers. 
 
+The purpose of graph 2 without the outliers, is to better see the cluster of speakers on the left. 
+
+Most outliers to Least outlying (number of speeches they speak)
+Achilles spoke 87 speeches - most outlier
+Agamemnon (47), Hector(49)
+Zeus (39), Nestor(33)
+Diomedes(26), Priamus(25), Odysseus(27), Menelaos(22), Athena(20), Apollo(18)
+Aias (son of Telamon)(19), Poseidon(16), Patroclus(12), Iris(12), Idomeneus(12)
+
+
+
+Graph 3: Mortal, god, or animal
+
+The speeches made by mortals, gods, and animals seem to have no similarity between each other and are all distinct ways of speaking since their points are far apart on the graph of the PCA
+
+
+Graph 4: Books
+
+Books 23, 24 are fairly separated/removed from the main middle cluster of books and this seems to reflect the shift in the Iliad during the last two books where funeral games and processions are carried out and much more grief and sadness is mentioned and referenced in these books. Hector is disgraced in his death, and only towards the end of the Iliad does Achilles give Hector’s body back for a proper Hero’s burial. An additional book close to the outliers of Book 23, 24 is Book 10. This is important because Book 10 talks about an Achaean victory and although it is not as big as winning the war, it is a significant win because the Achaeans Odysseus and Diomedes successfully gather information about the Trojans and are able to take some horses and escape with their lives. 
+
+Victory or at least success happens for Hector in Book 12 when he successfully broken the Achaean wall and is able to enter. This book seems to be characterized by success of Hector and is on the opposite end (farthest as possible) of similarity from Books 23, 24 where Hector is dead and his memory is being disgraced. 
+
+The embeddings done on the books seem to show that there is similarity amongst books where the Achaeans are winning and significant difference from these winning books and the books where the Achaeans are losing i.e. Book 12.
+
+
+Graph 5: Addressee and Graph 6: No outliers Addressee
 
 Resources:
 - Talks about characterization in Homer: https://chs.harvard.edu/chapter/2-characterization-in-homer-and-agamemnons-appeal-in-iliad-4/
