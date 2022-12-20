@@ -1,0 +1,547 @@
+nr.,book,from line,to line,speaker,speech/this speaker,mortal/god,anonymous?,disguise?,length,dialogue?,addressee
+1,1,32,43,Zeus,1 of 7,god,,,12,first part of dialogue,gods
+2,1,45,62,Athena,1 of 36,god,,,18,second part of dialogue,Zeus
+3,1,64,79,Zeus,2 of 7,god,,,16,third part of dialogue,Athena
+4,1,81,95,Athena,2 of 36,god,,,15,fourth part of dialogue,Zeus
+5,1,123,124,Telemachus,1 of 82,mortal,,,2,single speech,Athena
+6,1,158,177,Telemachus,2 of 82,mortal,,,20,first part of dialogue,Athena
+7,1,179,212,Athena,3 of 36,god,,Mentor,34,second part of dialogue,Telemachus
+8,1,214,220,Telemachus,3 of 82,mortal,,,7,third part of dialogue,Athena
+9,1,222,229,Athena,4 of 36,god,,Mentor,8,fourth part of dialogue,Telemachus
+10,1,231,251,Telemachus,4 of 82,mortal,,,21,fifth part of dialogue,Athena
+11,1,253,305,Athena,5 of 36,god,,Mentor,53,sixth part of dialogue,Telemachus
+12,1,307,313,Telemachus,5 of 82,mortal,,,7,seventh part of dialogue,Athena
+13,1,315,318,Athena,6 of 36,god,,Mentor,4,eighth part of dialogue,Telemachus
+14,1,337,344,Penelope,1 of 47,mortal,,,8,first part of dialogue,Phemius
+15,1,346,359,Telemachus,6 of 82,mortal,,,14,second part of dialogue,Penelope
+16,1,368,380,Telemachus,7 of 82,mortal,,,13,first part of dialogue,suitors
+17,1,384,387,Antinous,1 of 23,mortal,,,4,second part of dialogue,Telemachus
+18,1,389,398,Telemachus,8 of 82,mortal,,,10,third part of dialogue,Antinoos
+19,1,400,411,Eurymachus,1 of 13,mortal,,,12,fourth part of dialogue,Telemachus
+20,1,413,419,Telemachus,9 of 82,mortal,,,7,fifth part of dialogue,Eurymachus
+21,2,25,34,Aegyptius,1 of 1,mortal,,,10,first part of dialogue,assembly
+22,2,40,79,Telemachus,10 of 82,mortal,,,40,second part of dialogue,Aegyptius
+23,2,85,128,Antinous,2 of 23,mortal,,,44,third part of dialogue,Telemachus
+24,2,130,145,Telemachus,11 of 82,mortal,,,16,fourth part of dialogue,Antinoos
+25,2,161,176,Halitherses,1 of 2,mortal,,,16,fifth part of dialogue,assembly
+26,2,178,207,Eurymachus,2 of 13,mortal,,,30,sixth part of dialogue,Halitherses
+27,2,209,223,Telemachus,12 of 82,mortal,,,15,seventh part of dialogue,Eurymachus
+28,2,229,241,Mentor,1 of 1,mortal,,,13,eighth part of dialogue,assembly
+29,2,243,256,Leocritus,1 of 1,mortal,,,14,ninth part of dialogue,Mentor
+30,2,263,266,Telemachus,13 of 82,mortal,,,4,soliloquy,Athena
+31,2,270,295,Athena,7 of 36,god,,Mentor,26,single speech,Telemachus
+32,2,303,308,Antinous,3 of 23,mortal,,,6,first part of dialogue,Telemachus
+33,2,310,320,Telemachus,14 of 82,mortal,,,11,second part of dialogue,Antinoos
+34,2,325,330,suitor,1 of 1,mortal,yes,,6,single speech,suitors
+35,2,332,336,suitor,1 of 1,mortal,yes,,5,single speech,suitors
+36,2,349,360,Telemachus,15 of 82,mortal,,,12,first part of dialogue,Euryclea
+37,2,363,370,Euryclea,1 of 15,mortal,,,8,second part of dialogue,Telemachus
+38,2,372,376,Telemachus,16 of 82,mortal,,,5,third part of dialogue,Euryclea
+39,2,402,404,Athena,8 of 36,god,,Mentor,3,single speech,Telemachus
+40,2,410,412,Telemachus,17 of 82,mortal,,,3,single speech,all present
+41,3,14,20,Athena,9 of 36,god,,Mentor,7,first part of dialogue,Telemachus
+42,3,22,24,Telemachus,18 of 82,mortal,,,3,second part of dialogue,Athena
+43,3,26,28,Athena,10 of 36,god,,Mentor,3,third part of dialogue,Telemachus
+44,3,43,50,Peisistratus,1 of6,mortal,,,8,single speech,Athena
+45,3,55,61,Athena,11 of 36,god,,,7,soliloquy,Poseidon
+46,3,69,74,Nestor,1 of 8,mortal,,,6,first part of dialogue,guests
+47,3,79,101,Telemachus,19 of 82,mortal,,,23,second part of dialogue,Nestor
+48,3,103,200,Nestor,2 of 8,mortal,,,98,third part of dialogue,Telemachus
+49,3,202,209,Telemachus,20 of 82,mortal,,,8,fourth part of dialogue,Nestor
+50,3,211,224,Nestor,3 of 8,mortal,,,14,fifth part of dialogue,Telemachus
+51,3,226,228,Telemachus,21 of 82,mortal,,,3,sixth part of dialogue,Nestor
+52,3,230,238,Athena,12 of 36,god,,Mentor,9,seventh part of dialogue,Telemachus
+53,3,240,252,Telemachus,22 of 82,mortal,,,13,eighth part of dialogue,Athena
+54,3,254,328,Nestor,4 of 8,mortal,,,75,ninth part of dialogue,Telemachus
+55,3,331,336,Athena,13 of 36,god,,Mentor,6,tenth part of dialogue,Nestor
+56,3,346,355,Nestor,5 of 8,mortal,,,10,first part of dialogue,guests
+57,3,357,370,Athena,14 of 36,god,,Mentor,14,second part of dialogue,Nestor
+58,3,375,384,Nestor,6 of 8,mortal,,,10,third part of dialogue,Telemachus
+59,3,418,429,Nestor,7 of 8,mortal,,,12,single speech,sons
+60,3,475,476,Nestor,8 of 8,mortal,,,2,single speech,sons
+61,4,26,29,Etoneus,1 of 1,mortal,,,4,first part of dialogue,Menelaos
+62,4,31,36,Menelaus,1 of 13,mortal,,,6,second part of dialogue,Eteoneus
+63,4,60,64,Menelaus,2 of 13,mortal,,,5,first part of dialogue,Telemachus and Peisistratus
+64,4,71,75,Telemachus,23 of 82,mortal,,,5,single speech,Peisistratus
+65,4,78,112,Menelaus,3 of 13,mortal,,,35,second part of dialogue,Telemachus and Peisistratus
+66,4,138,146,Helena,1 of 4,mortal,,,9,third part of dialogue,Menelaos
+67,4,148,154,Menelaus,4 of 13,mortal,,,7,fourth part of dialogue,Helena
+68,4,156,167,Peisistratus,2 of6,mortal,,,12,fifth part of dialogue,Menelaos
+69,4,169,182,Menelaus,5 of 13,mortal,,,14,sixth part of dialogue,Telemachus
+70,4,190,202,Peisistratus,3 of6,mortal,,,13,seventh part of dialogue,Menelaos
+71,4,204,215,Menelaus,6 of 13,mortal,,,12,eighth part of dialogue,Peisistratus
+72,4,235,264,Helena,2 of 4,mortal,,,30,ninth part of dialogue,guests
+73,4,266,289,Menelaus,7 of 13,mortal,,,24,tenth part of dialogue,guests
+74,4,291,295,Telemachus,24 of 82,mortal,,,5,eleventh part of dialogue,Menelaos
+75,4,312,314,Menelaus,8 of 13,mortal,,,3,first part of dialogue,Telemachus
+76,4,316,331,Telemachus,25 of 82,mortal,,,16,second part of dialogue,Menelaos
+77,4,333,592,Menelaus,9 of 13,mortal,,,260,third part of dialogue,Telemachus
+78,4,594,608,Telemachus,26 of 82,mortal,,,15,fourth part of dialogue,Menelaos
+79,4,611,619,Menelaus,10 of 13,mortal,,,9,fifth part of dialogue,Telemachus
+80,4,632,637,Noemon,1 of 2,mortal,,,6,first part of dialogue,Antinoos
+81,4,642,647,Antinous,4 of 23,mortal,,,6,second part of dialogue,Noemon
+82,4,649,656,Noemon,2 of 2,mortal,,,8,third part of dialogue,Antinoos
+83,4,663,672,Antinous,5 of 23,mortal,,,10,single speech,suitors
+84,4,681,695,Penelope,2 of 47,mortal,,,15,first part of dialogue,Medon
+85,4,697,702,Medon,1 of 5,mortal,,,6,second part of dialogue,Penelope
+86,4,707,710,Penelope,3 of 47,mortal,,,4,third part of dialogue,Medon
+87,4,712,714,Medon,2 of 5,mortal,,,3,fourth part of dialogue,Penelope
+88,4,722,741,Penelope,4 of 47,mortal,,,20,first part of dialogue,women
+89,4,743,757,Euryclea,2 of 15,mortal,,,15,second part of dialogue,Penelope
+90,4,762,766,Penelope,5 of 47,mortal,,,5,soliloquy,Athena
+91,4,770,771,suitor,1 of 1,mortal,yes,,2,first part of dialogue,suitors
+92,4,774,777,Antinous,6 of 23,mortal,,,4,second part of dialogue,suitors
+93,4,804,807,dream,1 of 3,god,,Iphtime,4,first part of dialogue,Penelope
+94,4,810,823,Penelope,6 of 47,mortal,,,14,second part of dialogue,Athena
+95,4,825,829,dream,2 of 3,god,,Iphtime,5,third part of dialogue,Penelope
+96,4,831,834,Penelope,7 of 47,mortal,,,4,fourth part of dialogue,Athena
+97,4,836,837,dream,3 of 3,god,,Iphtime,2,fifth part of dialogue,Penelope
+98,5,7,20,Athena,15 of 36,god,,,14,first part of dialogue,Zeus
+99,5,22,27,Zeus,3 of 7,god,,,6,second part of dialogue,Athena
+100,5,29,42,Zeus,4 of 7,god,,,14,third part of dialogue,Hermes
+101,5,87,91,Calypso,1 of 5,god,,,5,first part of dialogue,Hermes
+102,5,97,115,Hermes,1 of 2,god,,,19,second part of dialogue,Calypso
+103,5,118,144,Calypso,2 of 5,god,,,27,third part of dialogue,Hermes
+104,5,146,147,Hermes,2 of 2,god,,,2,fourth part of dialogue,Calypso
+105,5,160,170,Calypso,3 of 5,god,,,11,first part of dialogue,Odysseus
+106,5,173,179,Odysseus,1 of 130,mortal,,,7,second part of dialogue,Calypso
+107,5,182,191,Calypso,4 of 5,god,,,10,third part of dialogue,Odysseus
+108,5,203,213,Calypso,5 of 5,god,,,11,first part of dialogue,Odysseus
+109,5,215,224,Odysseus,2 of 130,mortal,,,10,second part of dialogue,Calypso
+110,5,286,290,Poseidon,1 of 4,god,,,5,soliloquy,himself
+111,5,299,312,Odysseus,3 of 130,mortal,,,14,soliloquy,himself
+112,5,339,350,Ino,1 of 1,god,,,12,single speech,Odysseus
+113,5,356,364,Odysseus,4 of 130,mortal,,,9,soliloquy,himself
+114,5,377,379,Poseidon,2 of 4,god,,,3,soliloquy,himself
+115,5,408,422,Odysseus,5 of 130,mortal,,,15,soliloquy,himself
+116,5,445,450,Odysseus,6 of 130,mortal,,,6,soliloquy,river god
+117,5,465,473,Odysseus,7 of 130,mortal,,,9,soliloquy,himself
+118,6,25,40,Athena,16 of 36,god,,friend,16,single speech,Nausicaa
+119,6,57,65,Nausicaa,1 of 6,mortal,,,9,first part of dialogue,Alcinous
+120,6,68,70,Alkinous,1 of 16,mortal,,,3,second part of dialogue,Nausicaa
+121,6,119,126,Odysseus,8 of 130,mortal,,,8,soliloquy,himself
+122,6,149,185,Odysseus,9 of 130,mortal,,,37,first part of dialogue,Nausicaa
+123,6,187,197,Nausicaa,2 of 6,mortal,,,11,second part of dialogue,Odysseus
+124,6,199,210,Nausicaa,3 of 6,mortal,,,12,third part of dialogue,girls
+125,6,218,222,Odysseus,10 of 130,mortal,,,5,single speech,girls
+126,6,239,246,Nausicaa,4 of 6,mortal,,,8,single speech,girls
+127,6,255,315,Nausicaa,5 of 6,mortal,,,61,single speech,Odysseus
+128,6,324,328,Odysseus,11 of 130,mortal,,,5,soliloquy,Athena
+129,7,22,26,Odysseus,12 of 130,mortal,,,5,first part of dialogue,Athena
+130,7,28,36,Athena,17 of 36,god,,girl,9,second part of dialogue,Odysseus
+131,7,48,77,Athena,18 of 36,god,,girl,30,single speech,Odysseus
+132,7,146,152,Odysseus,13 of 130,mortal,,,7,first part of dialogue,Arete
+133,7,159,166,Echeneus,1 of 2,mortal,,,8,second part of dialogue,Alcinous
+134,7,179,181,Alkinous,2 of 16,mortal,,,3,third part of dialogue,Pontonous
+135,7,186,206,Alkinous,3 of 16,mortal,,,21,fourth part of dialogue,Phaeacians
+136,7,208,225,Odysseus,14 of 130,mortal,,,18,fifth part of dialogue,Alcinous
+137,7,237,239,Arete,1 of 3,mortal,,,3,first part of dialogue,Odysseus
+138,7,241,297,Odysseus,15 of 130,mortal,,,57,second part of dialogue,Arete
+139,7,299,301,Alkinous,4 of 16,mortal,,,3,third part of dialogue,Odysseus
+140,7,303,307,Odysseus,16 of 130,mortal,,,5,fourth part of dialogue,Alcinous
+141,7,309,328,Alkinous,5 of 16,mortal,,,20,fifth part of dialogue,Odysseus
+142,7,331,333,Odysseus,17 of 130,mortal,,,3,soliloquy,Zeus
+143,7,342,342,servant girls,1 of 1,mortal,yes,,1,single speech,Odysseus
+144,8,11,14,Athena,19 of 36,god,,herald,4,single speech,Phaeacians
+145,8,26,45,Alkinous,6 of 16,mortal,,,20,single speech,Phaeacians
+146,8,97,103,Alkinous,7 of 16,mortal,,,7,single speech,Phaeacians
+147,8,133,139,Laodamas,1 of 2,mortal,,,7,first part of dialogue,Phaeacians
+148,8,141,142,Euryalus,1 of 4,mortal,,,2,second part of dialogue,Laodamas
+149,8,145,151,Laodamas,2 of 2,mortal,,,7,third part of dialogue,Odysseus
+150,8,153,157,Odysseus,18 of 130,mortal,,,5,fourth part of dialogue,Laodamas
+151,8,159,164,Euryalus,2 of 4,mortal,,,6,fifth part of dialogue,Odysseus
+152,8,166,185,Odysseus,19 of 130,mortal,,,20,sixth part of dialogue,Euryalus
+153,8,195,198,Athena,20 of 36,god,,man,4,seventh part of dialogue,Odysseus
+154,8,202,233,Odysseus,20 of 130,mortal,,,32,eighth part of dialogue,Phaeacians
+155,8,236,255,Alkinous,8 of 16,mortal,,,20,ninth part of dialogue,Odysseus
+156,8,382,384,Odysseus,21 of 130,mortal,,,3,first part of dialogue,Alcinous
+157,8,387,397,Alkinous,9 of 16,mortal,,,11,second part of dialogue,Phaeacians
+158,8,401,405,Euryalus,3 of 4,mortal,,,5,third part of dialogue,Alcinous
+159,8,408,411,Euryalus,4 of 4,mortal,,,4,fourth part of dialogue,Odysseus
+160,8,413,415,Odysseus,22 of 130,mortal,,,3,fifth part of dialogue,Euryalus
+161,8,424,432,Alkinous,10 of 16,mortal,,,9,single speech,Arete
+162,8,443,445,Arete,2 of 3,mortal,,,3,single speech,Odysseus
+163,8,461,462,Nausicaa,6 of 6,mortal,,,2,first part of dialogue,Odysseus
+164,8,464,468,Odysseus,23 of 130,mortal,,,5,second part of dialogue,Nausicaa
+165,8,477,481,Odysseus,24 of 130,mortal,,,5,single speech,herald
+166,8,487,498,Odysseus,25 of 130,mortal,,,12,single speech,Demodocus
+167,8,536,586,Alkinous,11 of 16,mortal,,,51,first part of dialogue,Odysseus
+168,9,2,1472,Odysseus,26 of 130,mortal,,,1471,second part of dialogue,Alcinous
+169,11,336,341,Arete,3 of 3,mortal,,,6,first part of dialogue,Phaeacians
+170,11,344,346,Echeneus,2 of 2,mortal,,,3,second part of dialogue,Phaeacians
+171,11,348,353,Alkinous,12 of 16,mortal,,,6,third part of dialogue,Phaeacians
+172,11,355,361,Odysseus,27 of 130,mortal,,,7,fourth part of dialogue,Alcinous
+173,11,363,376,Alkinous,13 of 16,mortal,,,14,fifth part of dialogue,Odysseus
+174,11,378,1093,Odysseus,28 of 130,mortal,,,716,sixth part of dialogue,Alcinous
+175,13,4,15,Alkinous,14 of 16,mortal,,,12,single speech,Odysseus
+176,13,38,46,Odysseus,29 of 130,mortal,,,9,first part of dialogue,Alcinous
+177,13,50,52,Alkinous,15 of 16,mortal,,,3,second part of dialogue,Pontonous
+178,13,59,62,Odysseus,30 of 130,mortal,,,4,third part of dialogue,Arete
+179,13,128,138,Poseidon,3 of 4,god,,,11,first part of dialogue,Zeus
+180,13,140,145,Zeus,5 of 7,god,,,6,second part of dialogue,Poseidon
+181,13,147,152,Poseidon,4 of 4,god,,,6,third part of dialogue,Zeus
+182,13,154,158,Zeus,6 of 7,god,,,5,fourth part of dialogue,Poseidon
+183,13,168,169,someone (Phaeacian),1 of 1,mortal,yes,,2,first part of dialogue,someone else
+184,13,172,183,Alkinous,16 of 16,mortal,,,12,second part of dialogue,Phaeacians
+185,13,200,216,Odysseus,31 of 130,mortal,,,17,soliloquy,himself
+186,13,228,235,Odysseus,32 of 130,mortal,,,8,first part of dialogue,Athena
+187,13,237,249,Athena,21 of 36,god,,young shepherd,13,second part of dialogue,Odysseus
+188,13,256,286,Odysseus,33 of 130,mortal,,Cretan,31,third part of dialogue,Athena
+189,13,291,310,Athena,22 of 36,god,,,20,fourth part of dialogue,Odysseus
+190,13,312,328,Odysseus,34 of 130,mortal,,,17,fifth part of dialogue,Athena
+191,13,330,351,Athena,23 of 36,god,,,22,sixth part of dialogue,Odysseus
+192,13,356,360,Odysseus,35 of 130,mortal,,,5,soliloquy,nymphs
+193,13,362,365,Athena,24 of 36,god,,,4,seventh part of dialogue,Odysseus
+194,13,375,381,Athena,25 of 36,god,,,7,first part of dialogue,Odysseus
+195,13,383,391,Odysseus,36 of 130,mortal,,,9,second part of dialogue,Athena
+196,13,393,415,Athena,26 of 36,god,,,23,third part of dialogue,Odysseus
+197,13,417,419,Odysseus,37 of 130,mortal,,,3,fourth part of dialogue,Athena
+198,13,421,428,Athena,27 of 36,god,,,8,fifth part of dialogue,Odysseus
+199,14,37,47,Eumaeus,1 of 32,mortal,,,11,first part of dialogue,Odysseus
+200,14,53,54,Odysseus,38 of 130,mortal,,beggar,2,second part of dialogue,Eumaeus
+201,14,56,71,Eumaeus,2 of 32,mortal,,,16,third part of dialogue,Odysseus
+202,14,80,108,Eumaeus,3 of 32,mortal,,,29,fourth part of dialogue,Odysseus
+203,14,115,120,Odysseus,39 of 130,mortal,,beggar,6,fifth part of dialogue,Eumaeus
+204,14,122,147,Eumaeus,4 of 32,mortal,,,26,sixth part of dialogue,Odysseus
+205,14,149,164,Odysseus,40 of 130,mortal,,beggar,16,seventh part of dialogue,Eumaeus
+206,14,166,190,Eumaeus,5 of 32,mortal,,,25,eighth part of dialogue,Odysseus
+207,14,192,359,Odysseus,41 of 130,mortal,,beggar,168,ninth part of dialogue,Eumaeus
+208,14,361,389,Eumaeus,6 of 32,mortal,,,29,tenth part of dialogue,Odysseus
+209,14,391,400,Odysseus,42 of 130,mortal,,beggar,10,eleventh part of dialogue,Eumaeus
+210,14,402,408,Eumaeus,7 of 32,mortal,,,7,twelfth part of dialogue,Odysseus
+211,14,414,417,Eumaeus,8 of 32,mortal,,,4,single speech,swineherds
+212,14,440,441,Odysseus,43 of 130,mortal,,beggar,2,first part of dialogue,Eumaeus
+213,14,443,445,Eumaeus,9 of 32,mortal,,,3,second part of dialogue,Odysseus
+214,14,462,506,Odysseus,44 of 130,mortal,,beggar,45,first part of dialogue,Eumaeus
+215,14,508,517,Eumaeus,10 of 32,mortal,,,10,second part of dialogue,Odysseus
+216,15,10,42,Athena,28 of 36,god,,,33,single speech,Telemachus
+217,15,46,47,Telemachus,27 of 82,mortal,,,2,first part of dialogue,Peisistratus
+218,15,49,55,Peisistratus,4 of6,mortal,,,7,second part of dialogue,Telemachus
+219,15,64,66,Telemachus,28 of 82,mortal,,,3,first part of dialogue,Menelaos
+220,15,68,85,Menelaus,11 of 13,mortal,,,18,second part of dialogue,Telemachus
+221,15,87,91,Telemachus,29 of 82,mortal,,,5,third part of dialogue,Menelaos
+222,15,111,119,Menelaus,12 of 13,mortal,,,9,first part of dialogue,Telemachus
+223,15,125,129,Helena,3 of 4,mortal,,,5,second part of dialogue,Telemachus
+224,15,151,153,Menelaus,13 of 13,mortal,,,3,first part of dialogue,Telemachus and Peisistratus
+225,15,155,159,Telemachus,30 of 82,mortal,,,5,second part of dialogue,Menelaos
+226,15,167,168,Peisistratus,5 of6,mortal,,,2,third part of dialogue,Menelaos
+227,15,172,178,Helena,4 of 4,mortal,,,7,fourth part of dialogue,all present
+228,15,180,181,Telemachus,31 of 82,mortal,,,2,fifth part of dialogue,Helena
+229,15,195,201,Telemachus,32 of 82,mortal,,,7,first part of dialogue,Peisistratus
+230,15,209,214,Peisistratus,6 of6,mortal,,,6,second part of dialogue,Telemachus
+231,15,218,219,Telemachus,33 of 82,mortal,,,2,single speech,all present
+232,15,260,264,Theoclymenus,1 of 7,mortal,,,5,first part of dialogue,Telemachus
+233,15,266,270,Telemachus,34 of 82,mortal,,,5,second part of dialogue,Theoclymenus
+234,15,272,278,Theoclymenus,2 of 7,mortal,,,7,third part of dialogue,Telemachus
+235,15,280,281,Telemachus,35 of 82,mortal,,,2,fourth part of dialogue,Theoclymenus
+236,15,307,324,Odysseus,45 of 130,mortal,,beggar,18,first part of dialogue,Eumaeus
+237,15,326,339,Eumaeus,11 of 32,mortal,,,14,second part of dialogue,Odysseus
+238,15,341,350,Odysseus,46 of 130,mortal,,beggar,10,third part of dialogue,Eumaeus
+239,15,352,379,Eumaeus,12 of 32,mortal,,,28,fourth part of dialogue,Odysseus
+240,15,381,388,Odysseus,47 of 130,mortal,,beggar,8,fifth part of dialogue,Eumaeus
+241,15,390,484,Eumaeus,13 of 32,mortal,,,95,sixth part of dialogue,Odysseus
+242,15,486,492,Odysseus,48 of 130,mortal,,beggar,7,seventh part of dialogue,Eumaeus
+243,15,503,507,Telemachus,36 of 82,mortal,,,5,first part of dialogue,all present
+244,15,509,511,Theoclymenus,3 of 7,mortal,,,3,second part of dialogue,Telemachus
+245,15,513,524,Telemachus,37 of 82,mortal,,,12,third part of dialogue,Theoclymenus
+246,15,531,534,Theoclymenus,4 of 7,mortal,,,4,fourth part of dialogue,Telemachus
+247,15,536,538,Telemachus,38 of 82,mortal,,,3,fifth part of dialogue,Theoclymenus
+248,15,540,543,Telemachus,39 of 82,mortal,,,4,first part of dialogue,Peiraeus
+249,15,545,546,Peiraeus,1 of 2,mortal,,,2,second part of dialogue,Telemachus
+250,16,8,10,Odysseus,49 of 130,mortal,,beggar,3,first part of dialogue,Eumaeus
+251,16,23,29,Eumaeus,14 of 32,mortal,,,7,second part of dialogue,Telemachus
+252,16,31,35,Telemachus,40 of 82,mortal,,,5,third part of dialogue,Eumaeus
+253,16,37,39,Eumaeus,15 of 32,mortal,,,3,fourth part of dialogue,Telemachus
+254,16,44,45,Telemachus,41 of 82,mortal,,,2,fifth part of dialogue,Odysseus
+255,16,57,59,Telemachus,42 of 82,mortal,,,3,first part of dialogue,Eumaeus
+256,16,61,67,Eumaeus,16 of 32,mortal,,,7,second part of dialogue,Telemachus
+257,16,69,89,Telemachus,43 of 82,mortal,,,21,third part of dialogue,Eumaeus
+258,16,91,111,Odysseus,50 of 130,mortal,,beggar,21,fourth part of dialogue,Telemachus
+259,16,113,134,Telemachus,44 of 82,mortal,,,22,fifth part of dialogue,Odysseus
+260,16,136,145,Eumaeus,17 of 32,mortal,,,10,sixth part of dialogue,Telemachus
+261,16,147,153,Telemachus,45 of 82,mortal,,,7,seventh part of dialogue,Eumaeus
+262,16,167,171,Athena,29 of 36,god,,,5,single speech,Odysseus
+263,16,181,185,Telemachus,46 of 82,mortal,,,5,first part of dialogue,Odysseus
+264,16,187,189,Odysseus,51 of 130,mortal,,,3,second part of dialogue,Telemachus
+265,16,194,200,Telemachus,47 of 82,mortal,,,7,third part of dialogue,Odysseus
+266,16,202,212,Odysseus,52 of 130,mortal,,,11,fourth part of dialogue,Telemachus
+267,16,222,224,Telemachus,48 of 82,mortal,,,3,fifth part of dialogue,Odysseus
+268,16,226,239,Odysseus,53 of 130,mortal,,,14,sixth part of dialogue,Telemachus
+269,16,241,257,Telemachus,49 of 82,mortal,,,17,seventh part of dialogue,Odysseus
+270,16,259,261,Odysseus,54 of 130,mortal,,,3,eighth part of dialogue,Telemachus
+271,16,263,265,Telemachus,50 of 82,mortal,,,3,ninth part of dialogue,Odysseus
+272,16,267,307,Odysseus,55 of 130,mortal,,,41,tenth part of dialogue,Telemachus
+273,16,309,320,Telemachus,51 of 82,mortal,,,12,eleventh part of dialogue,Odysseus
+274,16,337,337,herald,1 of 1,mortal,yes,,1,single speech,Penelope
+275,16,346,350,Eurymachus,3 of 13,mortal,,,5,first part of dialogue,suitors
+276,16,355,357,Amphinomos,1 of 5,mortal,,,3,second part of dialogue,suitors
+277,16,364,392,Antinous,7 of 23,mortal,,,29,first part of dialogue,suitors
+278,16,400,405,Amphinomos,2 of 5,mortal,,,6,second part of dialogue,suitors
+279,16,418,433,Penelope,8 of 47,mortal,,,16,first part of dialogue,Antinoos
+280,16,435,447,Eurymachus,4 of 13,mortal,,,13,second part of dialogue,Penelope
+281,16,461,463,Telemachus,52 of 82,mortal,,,3,first part of dialogue,Eumaeus
+282,16,465,475,Eumaeus,18 of 32,mortal,,,11,second part of dialogue,Telemachus
+283,17,6,15,Telemachus,53 of 82,mortal,,,10,first part of dialogue,Eumaeus
+284,17,17,25,Odysseus,56 of 130,mortal,,beggar,9,second part of dialogue,Telemachus
+285,17,41,44,Penelope,9 of 47,mortal,,,4,first part of dialogue,Telemachus
+286,17,46,56,Telemachus,54 of 82,mortal,,,11,second part of dialogue,Penelope
+287,17,75,76,Peiraeus,2 of 2,mortal,,,2,first part of dialogue,Telemachus
+288,17,78,83,Telemachus,55 of 82,mortal,,,6,second part of dialogue,Peiraeus
+289,17,101,106,Penelope,10 of 47,mortal,,,6,first part of dialogue,Telemachus
+290,17,108,149,Telemachus,56 of 82,mortal,,,42,second part of dialogue,Penelope
+291,17,152,161,Theoclymenus,5 of 7,mortal,,,10,third part of dialogue,Penelope
+292,17,163,165,Penelope,11 of 47,mortal,,,3,fourth part of dialogue,Theoclymenus
+293,17,174,176,Medon,3 of 5,mortal,,,3,single speech,suitors
+294,17,185,191,Eumaeus,19 of 32,mortal,,,7,first part of dialogue,Odysseus
+295,17,193,196,Odysseus,57 of 130,mortal,,beggar,4,second part of dialogue,Eumaeus
+296,17,217,232,Melanthius,1 of 5,mortal,,,16,first part of dialogue,Odysseus and Eumaeus
+297,17,240,246,Eumaeus,20 of 32,mortal,,,7,second part of dialogue,nymphs
+298,17,248,253,Melanthius,2 of 5,mortal,,,6,third part of dialogue,Eumaeus
+299,17,264,271,Odysseus,58 of 130,mortal,,beggar,8,first part of dialogue,Eumaeus
+300,17,273,279,Eumaeus,21 of 32,mortal,,,7,second part of dialogue,Odysseus
+301,17,281,289,Odysseus,59 of 130,mortal,,beggar,9,third part of dialogue,Eumaeus
+302,17,306,310,Odysseus,60 of 130,mortal,,beggar,5,first part of dialogue,Eumaeus
+303,17,312,323,Eumaeus,22 of 32,mortal,,,12,second part of dialogue,Odysseus
+304,17,345,347,Telemachus,57 of 82,mortal,,,3,single speech,Eumaeus
+305,17,350,352,Eumaeus,23 of 32,mortal,,,3,first part of dialogue,Odysseus
+306,17,354,355,Odysseus,61 of 130,mortal,,,2,soliloquy,Zeus
+307,17,370,373,Melanthius,3 of 5,mortal,,,4,first part of dialogue,suitors
+308,17,375,379,Antinous,8 of 23,mortal,,,5,second part of dialogue,Eumaeus
+309,17,381,391,Eumaeus,24 of 32,mortal,,,11,third part of dialogue,Antinoos
+310,17,393,395,Telemachus,58 of 82,mortal,,,3,fourth part of dialogue,Eumaeus
+311,17,397,404,Telemachus,59 of 82,mortal,,,8,fifth part of dialogue,Antinoos
+312,17,406,408,Antinous,9 of 23,mortal,,,3,sixth part of dialogue,Telemachus
+313,17,415,444,Odysseus,62 of 130,mortal,,beggar,30,first part of dialogue,Antinoos
+314,17,446,452,Antinous,10 of 23,mortal,,,7,second part of dialogue,Odysseus
+315,17,454,457,Odysseus,63 of 130,mortal,,beggar,4,third part of dialogue,Antinoos
+316,17,460,461,Antinous,11 of 23,mortal,,,2,fourth part of dialogue,Odysseus
+317,17,468,476,Odysseus,64 of 130,mortal,,beggar,9,first part of dialogue,suitors
+318,17,478,480,Antinous,12 of 23,mortal,,,3,second part of dialogue,Odysseus
+319,17,483,487,suitor,1 of 1,mortal,yes,,5,third part of dialogue,Antinoos
+320,17,494,494,Penelope,12 of 47,mortal,,,1,first part of dialogue,Antinoos
+321,17,496,497,Eurynome,1 of 2,mortal,,,2,second part of dialogue,Penelope
+322,17,499,504,Penelope,13 of 47,mortal,,,6,third part of dialogue,Eurynome
+323,17,508,511,Penelope,14 of 47,mortal,,,4,first part of dialogue,Eumaeus
+324,17,513,527,Eumaeus,25 of 32,mortal,,,15,second part of dialogue,Penelope
+325,17,529,540,Penelope,15 of 47,mortal,,,12,third part of dialogue,Eumaeus
+326,17,544,550,Penelope,16 of 47,mortal,,,7,fourth part of dialogue,Eumaeus
+327,17,553,559,Eumaeus,26 of 32,mortal,,,7,first part of dialogue,Odysseus
+328,17,561,573,Odysseus,65 of 130,mortal,,beggar,13,second part of dialogue,Eumaeus
+329,17,576,578,Penelope,17 of 47,mortal,,,3,first part of dialogue,Eumaeus
+330,17,580,584,Eumaeus,27 of 32,mortal,,,5,second part of dialogue,Penelope
+331,17,586,588,Penelope,18 of 47,mortal,,,3,third part of dialogue,Eumaeus
+332,17,593,597,Eumaeus,28 of 32,mortal,,,5,first part of dialogue,Telemachus
+333,17,599,601,Telemachus,60 of 82,mortal,,,3,second part of dialogue,Eumaeus
+334,18,10,13,Irus,1 of 2,mortal,,,4,first part of dialogue,Odysseus
+335,18,15,24,Odysseus,66 of 130,mortal,,beggar,10,second part of dialogue,Irus
+336,18,26,31,Irus,2 of 2,mortal,,,6,third part of dialogue,Odysseus
+337,18,36,39,Antinous,13 of 23,mortal,,,4,first part of dialogue,suitors
+338,18,43,49,Antinous,14 of 23,mortal,,,7,second part of dialogue,all present
+339,18,52,57,Odysseus,67 of 130,mortal,,beggar,6,third part of dialogue,all present
+340,18,61,65,Telemachus,61 of 82,mortal,,,5,fourth part of dialogue,Odysseus
+341,18,73,74,suitor,1 of 1,mortal,yes,,2,single speech,suitors
+342,18,79,87,Antinous,15 of 23,mortal,,,9,single speech,Irus
+343,18,105,107,Odysseus,68 of 130,mortal,,beggar,3,single speech,Irus
+344,18,112,116,suitors,1 of 2,mortal,collective,,5,single speech,Odysseus
+345,18,122,123,Amphinomos,3 of 5,mortal,,,2,first part of dialogue,Odysseus
+346,18,125,150,Odysseus,69 of 130,mortal,,beggar,26,second part of dialogue,Amphinomus
+347,18,164,168,Penelope,19 of 47,mortal,,,5,first part of dialogue,Eurynome
+348,18,170,176,Eurynome,2 of 2,mortal,,,7,second part of dialogue,Penelope
+349,18,178,184,Penelope,20 of 47,mortal,,,7,third part of dialogue,Eurynome
+350,18,201,205,Penelope,21 of 47,mortal,,,5,soliloquy,herself
+351,18,215,225,Penelope,22 of 47,mortal,,,11,first part of dialogue,Telemachus
+352,18,227,242,Telemachus,62 of 82,mortal,,,16,second part of dialogue,Penelope
+353,18,245,249,Eurymachus,5 of 13,mortal,,,5,first part of dialogue,Penelope
+354,18,251,280,Penelope,23 of 47,mortal,,,30,second part of dialogue,Eurymachus
+355,18,285,289,Antinous,16 of 23,mortal,,,5,third part of dialogue,Penelope
+356,18,313,319,Odysseus,70 of 130,mortal,,beggar,7,first part of dialogue,servant girls
+357,18,327,336,Melantho,1 of 2,mortal,,,10,second part of dialogue,Odysseus
+358,18,338,339,Odysseus,71 of 130,mortal,,beggar,2,third part of dialogue,Melantho
+359,18,351,355,Eurymachus,6 of 13,mortal,,,5,first part of dialogue,suitors
+360,18,357,364,Eurymachus,7 of 13,mortal,,,8,second part of dialogue,Odysseus
+361,18,366,386,Odysseus,72 of 130,mortal,,beggar,21,third part of dialogue,Eurymachus
+362,18,389,393,Eurymachus,8 of 13,mortal,,,5,fourth part of dialogue,Odysseus
+363,18,401,404,suitor,1 of 1,mortal,yes,,4,single speech,suitors
+364,18,406,409,Telemachus,63 of 82,mortal,,,4,first part of dialogue,suitors
+365,18,414,421,Amphinomos,4 of 5,mortal,,,8,second part of dialogue,suitors
+366,19,4,13,Odysseus,73 of 130,mortal,,,10,first part of dialogue,Telemachus
+367,19,16,20,Telemachus,64 of 82,mortal,,,5,second part of dialogue,Euryclea
+368,19,22,25,Euryclea,3 of 15,mortal,,,4,third part of dialogue,Telemachus
+369,19,27,28,Telemachus,65 of 82,mortal,,,2,fourth part of dialogue,Euryclea
+370,19,36,40,Telemachus,66 of 82,mortal,,,5,first part of dialogue,Odysseus
+371,19,42,46,Odysseus,74 of 130,mortal,,,5,second part of dialogue,Telemachus
+372,19,66,69,Melantho,2 of 2,mortal,,,4,first part of dialogue,Odysseus
+373,19,71,88,Odysseus,75 of 130,mortal,,beggar,18,second part of dialogue,Melantho
+374,19,91,95,Penelope,24 of 47,mortal,,,5,third part of dialogue,Melantho
+375,19,97,99,Penelope,25 of 47,mortal,,,3,single speech,Eurynome
+376,19,104,105,Penelope,26 of 47,mortal,,,2,first part of dialogue,Odysseus
+377,19,107,122,Odysseus,76 of 130,mortal,,beggar,16,second part of dialogue,Penelope
+378,19,124,163,Penelope,27 of 47,mortal,,,40,third part of dialogue,Odysseus
+379,19,165,202,Odysseus,77 of 130,mortal,,beggar,38,fourth part of dialogue,Penelope
+380,19,215,219,Penelope,28 of 47,mortal,,,5,fifth part of dialogue,Odysseus
+381,19,221,248,Odysseus,78 of 130,mortal,,beggar,28,sixth part of dialogue,Penelope
+382,19,253,260,Penelope,29 of 47,mortal,,,8,seventh part of dialogue,Odysseus
+383,19,262,307,Odysseus,79 of 130,mortal,,beggar,46,eighth part of dialogue,Penelope
+384,19,309,334,Penelope,30 of 47,mortal,,,26,ninth part of dialogue,Odysseus
+385,19,336,348,Odysseus,80 of 130,mortal,,beggar,13,tenth part of dialogue,Penelope
+386,19,350,360,Penelope,31 of 47,mortal,,,11,eleventh part of dialogue,Odysseus
+387,19,363,381,Euryclea,4 of 15,mortal,,,19,twelfth part of dialogue,Odysseus
+388,19,383,385,Odysseus,81 of 130,mortal,,beggar,3,thirteenth part of dialogue,Euryclea
+389,19,403,404,Euryclea,5 of 15,mortal,,,2,first part of dialogue,Autolycus
+390,19,406,412,Autolycus,1 of 1,mortal,,,7,second part of dialogue,Euryclea
+391,19,474,475,Euryclea,6 of 15,mortal,,,2,fourteenth part of dialogue,Odysseus
+392,19,482,490,Odysseus,82 of 130,mortal,,,9,fifteenth part of dialogue,Euryclea
+393,19,492,498,Euryclea,7 of 15,mortal,,,7,sixteenth part of dialogue,Odysseus
+394,19,500,502,Odysseus,83 of 130,mortal,,,3,seventeenth part of dialogue,Euryclea
+395,19,509,553,Penelope,32 of 47,mortal,,,45,first part of dialogue,Odysseus
+396,19,555,558,Odysseus,84 of 130,mortal,,beggar,4,second part of dialogue,Penelope
+397,19,560,581,Penelope,33 of 47,mortal,,,22,third part of dialogue,Odysseus
+398,19,583,587,Odysseus,85 of 130,mortal,,beggar,5,fourth part of dialogue,Penelope
+399,19,589,599,Penelope,34 of 47,mortal,,,11,fifth part of dialogue,Odysseus
+400,20,18,21,Odysseus,86 of 130,mortal,,,4,soliloquy,himself
+401,20,33,35,Athena,32 of 36,god,,,3,first part of dialogue,Odysseus
+402,20,37,43,Odysseus,87 of 130,mortal,,,7,second part of dialogue,Athena
+403,20,45,53,Athena,33 of 36,god,,,9,third part of dialogue,Odysseus
+404,20,61,90,Penelope,35 of 47,mortal,,,30,soliloquy,Artemis
+405,20,98,101,Odysseus,88 of 130,mortal,,,4,soliloquy,Zeus
+406,20,112,119,woman at the mill,1 of 1,mortal,yes,,8,soliloquy,Zeus
+407,20,129,133,Telemachus,67 of 82,mortal,,,5,first part of dialogue,Euryclea
+408,20,135,143,Euryclea,8 of 15,mortal,,,9,second part of dialogue,Telemachus
+409,20,149,156,Euryclea,9 of 15,mortal,,,8,single speech,servant girls
+410,20,166,167,Eumaeus,29 of 32,mortal,,,2,first part of dialogue,Odysseus
+411,20,169,171,Odysseus,89 of 130,mortal,,beggar,3,second part of dialogue,Eumaeus
+412,20,178,182,Melanthius,4 of 5,mortal,,,5,single speech,Odysseus
+413,20,191,196,Philoetius,1 of 5,mortal,,,6,first part of dialogue,Eumaeus
+414,20,199,225,Philoetius,2 of 5,mortal,,,27,second part of dialogue,Odysseus
+415,20,227,234,Odysseus,90 of 130,mortal,,beggar,8,third part of dialogue,Philoetius
+416,20,236,237,Philoetius,3 of 5,mortal,,,2,fourth part of dialogue,Odysseus
+417,20,245,246,Amphinomos,5 of 5,mortal,,,2,single speech,suitors
+418,20,262,267,Telemachus,68 of 82,mortal,,,6,first part of dialogue,Odysseus
+419,20,271,274,Antinous,17 of 23,mortal,,,4,second part of dialogue,Telemachus
+420,20,292,298,Ctesippus,1 of 1,mortal,,,7,first part of dialogue,Odysseus
+421,20,304,319,Telemachus,69 of 82,mortal,,,16,second part of dialogue,Ctesippus
+422,20,322,337,Agelaus,1 of 4,mortal,,,16,third part of dialogue,suitors
+423,20,339,344,Telemachus,70 of 82,mortal,,,6,fourth part of dialogue,Agelaus
+424,20,351,357,Theoclymenus,6 of 7,mortal,,,7,first part of dialogue,suitors
+425,20,360,362,Eurymachus,9 of 13,mortal,,,3,second part of dialogue,suitors
+426,20,364,370,Theoclymenus,7 of 7,mortal,,,7,third part of dialogue,Eurymachus
+427,20,376,383,suitor,1 of 1,mortal,yes,,8,single speech,Telemachus
+428,21,68,79,Penelope,36 of 47,mortal,,,12,first part of dialogue,suitors
+429,21,85,95,Antinous,18 of 23,mortal,,,11,second part of dialogue,Eumaeus and Philoetius
+430,21,102,117,Telemachus,71 of 82,mortal,,,16,third part of dialogue,all present
+431,21,131,135,Telemachus,72 of 82,mortal,,,5,fourth part of dialogue,all present
+432,21,141,142,Antinous,19 of 23,mortal,,,2,fifth part of dialogue,all present
+433,21,152,162,Leodes,1 of 2,mortal,,,11,sixth part of dialogue,all present
+434,21,168,174,Antinous,20 of 23,mortal,,,7,seventh part of dialogue,Leiodes
+435,21,176,180,Antinous,21 of 23,mortal,,,5,eighth part of dialogue,Melanthius
+436,21,193,198,Odysseus,91 of 130,mortal,,beggar,6,first part of dialogue,Eumaeus and Philoetius
+437,21,200,202,Philoetius,4 of 5,mortal,,,3,second part of dialogue,Odysseus
+438,21,207,218,Odysseus,92 of 130,mortal,,beggar,11,third part of dialogue,Philoetius
+439,21,228,241,Odysseus,93 of 130,mortal,,beggar,14,fourth part of dialogue,Eumaeus and Philoetius
+440,21,249,255,Eurymachus,10 of 13,mortal,,,7,first part of dialogue,suitors
+441,21,257,268,Antinous,22 of 23,mortal,,,12,second part of dialogue,Eurymachus
+442,21,275,284,Odysseus,94 of 130,mortal,,beggar,10,third part of dialogue,suitors
+443,21,288,310,Antinous,23 of 23,mortal,,,23,fourth part of dialogue,Odysseus
+444,21,312,319,Penelope,37 of 47,mortal,,,8,fifth part of dialogue,Antinoos
+445,21,321,329,Eurymachus,11 of 13,mortal,,,9,sixth part of dialogue,Penelope
+446,21,331,342,Penelope,38 of 47,mortal,,,12,seventh part of dialogue,Eurymachus
+447,21,344,353,Telemachus,73 of 82,mortal,,,10,eighth part of dialogue,Penelope
+448,21,362,365,suitor,1 of 1,mortal,yes,,4,first part of dialogue,Eumaeus
+449,21,369,375,Telemachus,74 of 82,mortal,,,7,second part of dialogue,Eumaeus
+450,21,381,385,Eumaeus,30 of 32,mortal,,,5,single speech,Euryclea
+451,21,397,400,suitor,1 of 1,mortal,yes,,4,single speech,suitors
+452,21,402,403,suitor,1 of 1,mortal,yes,,2,single speech,suitors
+453,21,424,430,Odysseus,95 of 130,mortal,,beggar,7,first part of dialogue,Telemachus
+454,22,5,7,Odysseus,96 of 130,mortal,,beggar,3,second part of dialogue,suitors
+455,22,27,30,suitors,2 of 2,mortal,collective,,4,third part of dialogue,Odysseus
+456,22,35,41,Odysseus,97 of 130,mortal,,,7,fourth part of dialogue,suitors
+457,22,45,59,Eurymachus,12 of 13,mortal,,,15,fifth part of dialogue,Odysseus
+458,22,61,67,Odysseus,98 of 130,mortal,,,7,sixth part of dialogue,Eurymachus
+459,22,70,78,Eurymachus,13 of 13,mortal,,,9,seventh part of dialogue,suitors
+460,22,101,104,Telemachus,75 of 82,mortal,,,4,first part of dialogue,Odysseus
+461,22,106,107,Odysseus,99 of 130,mortal,,,2,second part of dialogue,Telemachus
+462,22,132,134,Agelaus,2 of 4,mortal,,,3,first part of dialogue,suitors
+463,22,136,141,Melanthius,5 of 5,mortal,,,6,second part of dialogue,Agelaus
+464,22,151,152,Odysseus,100 of 130,mortal,,,2,first part of dialogue,Telemachus
+465,22,154,159,Telemachus,76 of 82,mortal,,,6,second part of dialogue,Odysseus
+466,22,164,169,Eumaeus,31 of 32,mortal,,,6,third part of dialogue,Odysseus
+467,22,171,177,Odysseus,101 of 130,mortal,,,7,fourth part of dialogue,Eumaeus and Philoetius
+468,22,195,199,Eumaeus,32 of 32,mortal,,,5,single speech,Melanthius
+469,22,208,209,Odysseus,102 of 130,mortal,,,2,first part of dialogue,Athena
+470,22,213,223,Agelaus,3 of 4,mortal,,Mentor,11,second part of dialogue,Athena
+471,22,226,235,Athena,30 of 36,god,,Mentor,10,single speech,Odysseus
+472,22,248,254,Agelaus,4 of 4,mortal,,,7,single speech,suitors
+473,22,262,264,Odysseus,103 of 130,mortal,,,3,single speech,all present
+474,22,287,291,Philoetius,5 of 5,mortal,,,5,single speech,Ctesippus
+475,22,312,319,Leodes,2 of 2,mortal,,,8,first part of dialogue,Odysseus
+476,22,321,325,Odysseus,104 of 130,mortal,,,5,second part of dialogue,Leiodes
+477,22,344,353,Phemius,1 of 1,mortal,,,10,first part of dialogue,Odysseus
+478,22,356,360,Telemachus,77 of 82,mortal,,,5,second part of dialogue,Odysseus
+479,22,356,360,Odysseus,105 of 130,mortal,,,5,third part of dialogue,Telemachus
+480,22,367,370,Medon,4 of 5,mortal,,,4,first part of dialogue,Telemachus
+481,22,372,377,Odysseus,106 of 130,mortal,,,6,second part of dialogue,Medon
+482,22,391,392,Odysseus,107 of 130,mortal,,,2,first part of dialogue,Telemachus
+483,22,395,397,Telemachus,78 of 82,mortal,,,3,second part of dialogue,Euryclea
+484,22,411,418,Odysseus,108 of 130,mortal,,,8,third part of dialogue,Euryclea
+485,22,420,429,Euryclea,10 of 15,mortal,,,10,fourth part of dialogue,Odysseus
+486,22,431,432,Odysseus,109 of 130,mortal,,,2,fifth part of dialogue,Euryclea
+487,22,437,445,Odysseus,110 of 130,mortal,,,9,sixth part of dialogue,all present
+488,22,462,464,Telemachus,79 of 82,mortal,,,3,single speech,women
+489,22,481,484,Odysseus,111 of 130,mortal,,,4,first part of dialogue,Euryclea
+490,22,486,489,Euryclea,11 of 15,mortal,,,4,second part of dialogue,Odysseus
+491,22,491,491,Odysseus,112 of 130,mortal,,,1,third part of dialogue,Euryclea
+492,23,5,9,Euryclea,12 of 15,mortal,,,5,first part of dialogue,Penelope
+493,23,11,24,Penelope,39 of 47,mortal,,,14,second part of dialogue,Euryclea
+494,23,26,31,Euryclea,13 of 15,mortal,,,6,third part of dialogue,Penelope
+495,23,35,38,Penelope,40 of 47,mortal,,,4,fourth part of dialogue,Euryclea
+496,23,40,57,Euryclea,14 of 15,mortal,,,18,fifth part of dialogue,Penelope
+497,23,59,68,Penelope,41 of 47,mortal,,,10,sixth part of dialogue,Euryclea
+498,23,70,79,Euryclea,15 of 15,mortal,,,10,seventh part of dialogue,Penelope
+499,23,81,84,Penelope,42 of 47,mortal,,,4,eighth part of dialogue,Euryclea
+500,23,97,103,Telemachus,80 of 82,mortal,,,7,first part of dialogue,Penelope
+501,23,105,110,Penelope,43 of 47,mortal,,,6,second part of dialogue,Telemachus
+502,23,113,122,Odysseus,113 of 130,mortal,,,10,third part of dialogue,Telemachus
+503,23,124,128,Telemachus,81 of 82,mortal,,,5,fourth part of dialogue,Odysseus
+504,23,130,140,Odysseus,114 of 130,mortal,,,11,fifth part of dialogue,Telemachus
+505,23,149,151,passer-by,1 of 1,mortal,yes,,3,soliloquy,himself
+506,23,166,172,Odysseus,115 of 130,mortal,,,7,first part of dialogue,Penelope
+507,23,174,180,Penelope,44 of 47,mortal,,,7,second part of dialogue,Odysseus
+508,23,183,204,Odysseus,116 of 130,mortal,,,22,third part of dialogue,Penelope
+509,23,209,230,Penelope,45 of 47,mortal,,,22,fourth part of dialogue,Odysseus
+510,23,248,255,Odysseus,117 of 130,mortal,,,8,first part of dialogue,Penelope
+511,23,257,262,Penelope,46 of 47,mortal,,,6,second part of dialogue,Odysseus
+512,23,264,284,Odysseus,118 of 130,mortal,,,21,third part of dialogue,Penelope
+513,23,286,287,Penelope,47 of 47,mortal,,,2,fourth part of dialogue,Odysseus
+514,23,350,365,Odysseus,119 of 130,mortal,,,16,single speech,Penelope
+515,24,24,34,Achilles,1 of 1,mortal,,,11,first part of dialogue,Agamemnon
+516,24,36,97,Agamemnon,1 of 3,mortal,,,62,second part of dialogue,Achilles
+517,24,106,119,Agamemnon,2 of 3,mortal,,,14,third part of dialogue,Amphimedon
+518,24,121,190,Amphimedon,1 of 1,mortal,,,70,fourth part of dialogue,Agamemnon
+519,24,192,202,Agamemnon,3 of 3,mortal,,,11,fifth part of dialogue,Amphimedon
+520,24,214,218,Odysseus,120 of 130,mortal,,,5,single speech,all present
+521,24,244,279,Odysseus,121 of 130,mortal,,stranger,36,first part of dialogue,Laertes
+522,24,281,301,Laertes,1 of 5,mortal,,,21,second part of dialogue,Odysseus
+523,24,303,314,Odysseus,122 of 130,mortal,,stranger,12,third part of dialogue,Laertes
+524,24,321,326,Odysseus,123 of 130,mortal,,,6,fourth part of dialogue,Laertes
+525,24,328,329,Laertes,2 of 5,mortal,,,2,fifth part of dialogue,Odysseus
+526,24,331,344,Odysseus,124 of 130,mortal,,,14,sixth part of dialogue,Laertes
+527,24,351,355,Laertes,3 of 5,mortal,,,5,seventh part of dialogue,Odysseus
+528,24,357,360,Odysseus,125 of 130,mortal,,,4,eighth part of dialogue,Laertes
+529,24,373,374,Odysseus,126 of 130,mortal,,,2,first part of dialogue,Laertes
+530,24,376,382,Laertes,4 of 5,mortal,,,7,second part of dialogue,Odysseus
+531,24,389,391,Odysseus,127 of 130,mortal,,,3,first part of dialogue,Dolius
+532,24,400,405,Dolius,1 of 1,mortal,,,6,second part of dialogue,Odysseus
+533,24,407,407,Odysseus,128 of 130,mortal,,,1,third part of dialogue,Dolius
+534,24,426,437,Eupithes,1 of 1,mortal,,,12,first part of dialogue,assembly
+535,24,443,449,Medon,5 of 5,mortal,,,7,second part of dialogue,assembly
+536,24,454,462,Halitherses,2 of 2,mortal,,,9,third part of dialogue,assembly
+537,24,473,476,Athena,31 of 36,god,,,4,first part of dialogue,Zeus
+538,24,478,486,Zeus,7 of 7,god,,,9,second part of dialogue,Athena
+539,24,491,491,Odysseus,129 of 130,mortal,,,1,first part of dialogue,all present
+540,24,495,495,Son of Dolius,1 of 1,mortal,,,1,second part of dialogue,Odysseus
+541,24,506,509,Odysseus,130 of 130,mortal,,,4,first part of dialogue,Telemachus
+542,24,511,512,Telemachus,82 of 82,mortal,,,2,second part of dialogue,Odysseus
+543,24,514,515,Laertes,5 of 5,mortal,,,2,third part of dialogue,himself
+544,24,517,519,Athena,34 of 36,god,,Mentor,3,single speech,Laertes
+545,24,531,532,Athena,35 of 36,god,,,2,single speech,all present
+546,24,542,544,Athena,36 of 36,god,,,3,single speech,Odysseus
