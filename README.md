@@ -74,8 +74,9 @@ Help with CLTK and using CLTK:
 
 
 Content Sources:
-- https://github.com/cltk/grc_text_perseus/tree/master/cltk_json --edited some files that were missing lines
-- https://www.dsgep.ugent.be/iliad/  used for speech indices. Files "speech indices" came directly from this website
+- Edited some files that were missing lines: https://github.com/cltk/grc_text_perseus/tree/master/cltk_json 
+- Used for speech indices. Files "speech indices" came directly from this website: https://www.dsgep.ugent.be/iliad/  
+- All words in Odyssey: https://vocab.perseus.org/word-list/urn:cts:greekLit:tlg0012.tlg002.perseus-grc2/?scope=corpus&freqrange=0%2C8&o=-3
 
 Summaries of Iliad used:
 - https://www.litcharts.com/lit/the-iliad/book-10
