@@ -33,6 +33,12 @@ The embeddings done on the books seem to show that there is similarity amongst b
 
 
 **Graph 5: Addressee and Graph 6: No outliers Addressee**
+Similar to the case of Graph 1 and 2 of the speakers, Graphs 5 and 6 seem to rate similarity based on the number of times a character is addressed. Therefore, PCA analysis with this particular model for Word2Vec (and corpus of a variety of ancient Greek words) does not give valuable information on the similarity of how characters are referenced but rather just on the amount of times the character is addressed.
+
+
+**Future Work**
+Further analysis could be done to compare how Homer portrays the speech of characters with similar counts of speeches and being addressed then by accounting for the similarity in frequency the PCA analysis should accurately show if the character (like Odysseus) speaks and is spoken to similarly in both the Iliad and the Odyssey. Originally I thought it would be interesting to compare how certain characters (mostly gods) are spoken to in the Iliad and Odyssey compared with the Hymns Homer wrote to them. However, unless the number of times a god is addressed is similar to the number of hymns Homer has to that god, the PCA analysis might still be skewed based on frequency and not similarity of words in the speeches. Another idea was to make a corpus based solely on Homeric greek and use this to train a Word2Vec model on but there is concern that the number of lemmas in all of Homer’s works is not a sufficient number to create a corpus on and then train a model. But this could be interesting to do just to see if this suspicion is confirmed. Additionally, Homer characterizes each character by a phrase such as “Most cunning Odysseus” in the Odyssey or “wise Telemachus” in the Iliad, it would be interesting to graph and see if there is similarity in sentiment or connotation between the phrase and the following person’s speech. 
+
 
 Resources:
 - Talks about characterization in Homer: https://chs.harvard.edu/chapter/2-characterization-in-homer-and-agamemnons-appeal-in-iliad-4/
