@@ -49,7 +49,7 @@ Further analysis could be done to compare how Homer portrays the speech of chara
 
 - Address issues with data:
   - Iliad book 16 is not included because the github text from cltk repeats book 17 twice. Need to include the 3 speeches from book 16 Iliad
-  - Odyssey has varying lines that are missing. The file on my (egreven) github is the corrected version of the JSON from cltk 
+  - Odyssey has varying lines that are missing. The file on my (egreven) github is the corrected version of the JSON from cltk up to Book 4 (Book 5 on still have missing lines index 4 -23 are missing lines)
 
 
 
