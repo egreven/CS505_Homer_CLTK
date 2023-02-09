@@ -1,4 +1,8 @@
 # CS505_Homer_CLTK
+**Issues with text**
+
+PERSEUS missing book 1 line 259 in Odyssey
+
 
 **Results:**
 
